@@ -5,12 +5,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;DSA+Enthusiast;Machine+Learning+Learner;Future+AI+Engineer" />
 </p>
 
+<p align="center">
+🚀 Passionate about building scalable applications and solving complex algorithmic problems
+</p>
+
 ---
 
 ## 🚀 About Me
 
 🔭 I’m currently working on  
-- Solving **Data Structures & Algorithms problems (LeetCode)**  
+- Solving **Data Structures & Algorithms problems across multiple coding platforms**  
 - Building **Web Development Projects**
 
 🌱 I’m currently learning  
@@ -34,21 +38,19 @@
 
 # 🛠 Tech Stack
 
-### Languages
-
+### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
 
 ### Web Development
-
 ![HTML](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Data Science / ML
-
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
 ![NumPy](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
 
@@ -76,12 +78,16 @@
 
 ---
 
-# 🧠 LeetCode Stats
+# 🧠 Coding Profiles
 
 <p align="center">
+<a href="https://codolio.com/profile/Aashish_dhaka">
+<img src="https://img.shields.io/badge/Codolio-View%20My%20DSA%20Progress-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+</p>
 
-<img src="https://leetcard.jacoblin.cool/Aashish_Dhaka?theme=dark&font=Karma"/>
-
+<p align="center">
+Track my **Data Structures & Algorithms progress across multiple coding platforms** on Codolio.
 </p>
 
 ---
@@ -90,4 +96,4 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aashishdhaka614/aashishdhaka614/output/github-contribution-grid-snake.svg" />
-</p>>
+</p>
