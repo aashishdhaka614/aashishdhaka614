@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Web Developer | ML & Data Science Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;DSA+Enthusiast;Machine+Learning+Learner;Future+AI+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;DSA+Enthusiast;Machine+Learning+Explorer;Aspiring+Software+Engineer" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 🔭 I’m currently working on  
-- Solving **Data Structures & Algorithms problems across multiple coding platforms**  
+- Practicing **Data Structures & Algorithms across multiple competitive programming platforms**  
 - Building **Web Development Projects**
 
 🌱 I’m currently learning  
@@ -32,7 +32,7 @@
 - **Web Development Basics**
 
 ⚡ Fun fact  
-- I love solving **algorithm problems and building real-world applications**
+- **I enjoy solving challenging algorithm problems and turning ideas into real-world applications**
 
 ---
 
@@ -46,6 +46,9 @@
 ### Web Development
 ![HTML](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
+
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
@@ -81,13 +84,23 @@
 # 🧠 Coding Profiles
 
 <p align="center">
-<a href="https://codolio.com/profile/Aashish_dhaka">
-<img src="https://img.shields.io/badge/Codolio-View%20My%20DSA%20Progress-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-</p>
 
 <p align="center">
-Track my **Data Structures & Algorithms progress across multiple coding platforms** on Codolio.
+🚀 Competitive Programming & Problem Solving
+</p>
+
+<a href="https://leetcode.com/Aashish_Dhaka">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/Aashish_Dhaka">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://codolio.com/profile/Aashish_dhaka">
+<img src="https://img.shields.io/badge/Codolio-DSA%20Tracker-black?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
